@@ -65,7 +65,7 @@ book:
 
 format:
   html:
-    theme: [cosmo, custom.scss]
+    theme: [darkly, custom.scss]
     code-link: true
     include-in-header: "plausible.html"
 
